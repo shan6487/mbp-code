@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mbp-springcloud-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mbp-springcloud-api/mbp-springcloud-api-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mbp-springcloud-api/mbp-springcloud-api-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mbp-springcloud-basic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mbp-springcloud-basic/mbp-springcloud-basic-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mbp-springcloud-basic/mbp-springcloud-basic-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mbp-springcloud-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mbp-springcloud-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mbp-springcloud-service/mbp-springcloud-service-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mbp-springcloud-service/mbp-springcloud-service-user" charset="UTF-8" />
+  </component>
+</project>

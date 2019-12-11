@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mbp-springcloud-api-order" />
+        <module name="mbp-springcloud-api-user" />
+        <module name="mbp-springcloud-basic-eureka" />
+        <module name="mbp-springcloud-basic-zuul" />
+        <module name="mbp-springcloud-service-order" />
+        <module name="mbp-springcloud-service-user" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mbp-springcloud-api" options="" />
+      <module name="mbp-springcloud-api-order" options="-parameters" />
+      <module name="mbp-springcloud-api-user" options="-parameters" />
+      <module name="mbp-springcloud-basic" options="-parameters" />
+      <module name="mbp-springcloud-basic-eureka" options="-parameters" />
+      <module name="mbp-springcloud-basic-zuul" options="-parameters" />
+      <module name="mbp-springcloud-common" options="-parameters" />
+      <module name="mbp-springcloud-service" options="-parameters" />
+      <module name="mbp-springcloud-service-order" options="-parameters" />
+      <module name="mbp-springcloud-service-user" options="-parameters" />
+    </option>
+  </component>
+</project>
